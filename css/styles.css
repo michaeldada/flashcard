@@ -1,0 +1,19 @@
+
+.container .jumbotron {
+    box-shadow: 0px 0px 45px 25px gray;
+    background-color: #59b300;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Alegreya Sans', sans-serif;
+
+
+}
+
+.container .initially-hidden{
+  background-color: #99ff99;
+  height: 522px;
+}
+
+body{
+  background-color: #d9b48c !important;
+}
